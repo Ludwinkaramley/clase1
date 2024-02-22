@@ -1,0 +1,33 @@
+*
+{
+    margin: 20px;
+}
+body
+{
+    background-color: rgb(144, 221, 192);
+    font-family: Tahoma;
+    
+}
+
+h1
+{
+    padding: 10px;
+    border: 15px;
+    border-style: dotted;
+    border-color: blanchedalmond;
+    color: hotpink;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+}
+p
+{
+    color: darkblue;
+    text-align: justify;
+    background-color: rgb(193, 250, 137);
+
+}
+img
+{
+    width: 30%;
+}    
